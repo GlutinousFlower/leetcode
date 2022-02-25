@@ -4,8 +4,13 @@
 # @Email : xiaoluping@yuanfudao.com
 # @File : lengthOfLongestSubstring.py
 
+"""
+最长不重复子串
+"""
+
+
 class LengthOfLongestSubstring:
-    def lengthOfLongestSubstring(self,s):
+    def lengthOfLongestSubstring(self, s):
         l = []
         length = []
         if s == '':
@@ -25,12 +30,7 @@ class LengthOfLongestSubstring:
             return max(length, default=0)
 
 
-
-
-
-
 if __name__ == '__main__':
-    print(len(' '))
-    LengthOfLongestSubstring().lengthOfLongestSubstring('cd')
+    # print(len(' '))
+    print(LengthOfLongestSubstring().lengthOfLongestSubstring('cdhbjhsbjsc'))
     # 需要考虑下兜底，s=''和s=' ','a'这种情况，以及l被清空后的length值，给一个default
-

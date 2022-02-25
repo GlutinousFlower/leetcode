@@ -4,6 +4,11 @@
 # @Email : xiaoluping@yuanfudao.com
 # @File : validString.py
 
+"""
+括号匹配
+"""
+
+
 class Solution:
     def isValid(self, s: str) -> bool:
         while '{}' in s or '[]' in s or '()' in s:
@@ -11,5 +16,3 @@ class Solution:
             s = s.replace('[]', '')
             s = s.replace('()', '')
         return s == ''
-
-
