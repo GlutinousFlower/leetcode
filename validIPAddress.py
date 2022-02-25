@@ -17,4 +17,4 @@ class Solution:
 
 
 if __name__ == '__main__':
-    print(Solution().validIPAddress("10.5.001.23"))
+    print(Solution().validIPAddress("10.5.1.23"))

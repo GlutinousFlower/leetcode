@@ -1,32 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="10644b9c-3353-4e0f-90dc-a38fd80daca9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/twoSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/twoSum.py" afterDir="false" />
+    <list default="true" id="10644b9c-3353-4e0f-90dc-a38fd80daca9" name="Default Changelist" comment="ADD:cofigParser模块相关使用">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lengthOfLongestSubstring.py" beforeDir="false" afterPath="$PROJECT_DIR$/bytedance/lengthOfLongestSubstring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/longestCommonSubsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/bytedance/longestCommonSubsequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validIPAddress.py" beforeDir="false" afterPath="$PROJECT_DIR$/validIPAddress.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/validString.py" beforeDir="false" afterPath="$PROJECT_DIR$/bytedance/validString.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fML1v4nD7gPDyOX5oq9CbLbbkO" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
-    <configuration name="[1]两数之和" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bytedance" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.sign_connect">
+    <configuration name="count_string_time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -34,11 +80,95 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="/var/folders/f6/rrrpfn595vx8j5rj7sdtcsph0000gn/T/leetcode/editor/cn" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/huawei" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="/var/folders/f6/rrrpfn595vx8j5rj7sdtcsph0000gn/T/leetcode/editor/cn/[1]两数之和.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/huawei/count_string_time.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lengthOfLongestSubstring" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bytedance/lengthOfLongestSubstring.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="longest_huiwen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bytedance" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bytedance/longest_huiwen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sign_connect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sign_connect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -49,7 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.[1]两数之和" />
+        <item itemvalue="Python.sign_connect" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.count_string_time" />
+        <item itemvalue="Python.longest_huiwen" />
+        <item itemvalue="Python.lengthOfLongestSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -65,6 +199,28 @@
       <option name="presentableId" value="Default" />
       <updated>1596022802729</updated>
     </task>
+    <task id="LOCAL-00001" summary="MOD:更新本地idea配置">
+      <created>1639642794125</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639642794125</updated>
+    </task>
+    <task id="LOCAL-00002" summary="MOD:更新本地idea配置">
+      <created>1639642934327</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639642934327</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ADD:cofigParser模块相关使用">
+      <created>1639984970533</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1639984970533</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,60 +233,112 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MOD:更新本地idea配置" />
+    <MESSAGE value="ADD:cofigParser模块相关使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD:cofigParser模块相关使用" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="104" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596073392304">
-      <screen x="0" y="23" width="1280" height="708" />
+    <state x="448" y="240" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1639983228905">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state x="104" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.708@0.23.1280.708" timestamp="1596073392304" />
-    <state x="512" y="284" key="Github.ShareDialog" timestamp="1596768509091">
-      <screen x="0" y="23" width="1280" height="715" />
+    <state x="448" y="240" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.812/-1120.-1417.2560.1417@0.23.1440.812" timestamp="1639983228905" />
+    <state x="483" y="141" key="#xdebugger.evaluate" timestamp="1641821418554">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state x="512" y="284" key="Github.ShareDialog/0.23.1280.715@0.23.1280.715" timestamp="1596768509091" />
-    <state width="1236" height="221" key="GridCell.Tab.0.bottom" timestamp="1596768555706">
-      <screen x="0" y="23" width="1280" height="715" />
+    <state x="483" y="141" key="#xdebugger.evaluate/0.23.1440.806@0.23.1440.806" timestamp="1641821418554" />
+    <state width="1419" height="225" key="GridCell.Tab.0.bottom" timestamp="1645608924539">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1236" height="221" key="GridCell.Tab.0.bottom/0.23.1280.715@0.23.1280.715" timestamp="1596768555706" />
-    <state width="1236" height="221" key="GridCell.Tab.0.center" timestamp="1596768555705">
-      <screen x="0" y="23" width="1280" height="715" />
+    <state width="1419" height="225" key="GridCell.Tab.0.bottom/0.23.1440.801/-1120.-1417.2560.1417@0.23.1440.801" timestamp="1644832073020" />
+    <state width="1419" height="225" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1643887576546" />
+    <state width="1419" height="225" key="GridCell.Tab.0.bottom/0.23.1440.804/-1120.-1417.2560.1417@0.23.1440.804" timestamp="1644824684938" />
+    <state width="1419" height="225" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1644837440653" />
+    <state width="1419" height="225" key="GridCell.Tab.0.bottom/0.23.1440.806/-1120.-1417.2560.1417@0.23.1440.806" timestamp="1645608924539" />
+    <state width="1419" height="127" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1641823300704" />
+    <state width="1419" height="224" key="GridCell.Tab.0.bottom/0.23.1440.808/-1120.-1417.2560.1417@0.23.1440.808" timestamp="1641980863442" />
+    <state width="1419" height="224" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1641977019466" />
+    <state width="1419" height="409" key="GridCell.Tab.0.bottom/0.23.1440.812/-1120.-1417.2560.1417@0.23.1440.812" timestamp="1639993968240" />
+    <state width="1419" height="225" key="GridCell.Tab.0.center" timestamp="1645608924536">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1236" height="221" key="GridCell.Tab.0.center/0.23.1280.715@0.23.1280.715" timestamp="1596768555705" />
-    <state width="1236" height="221" key="GridCell.Tab.0.left" timestamp="1596768555704">
-      <screen x="0" y="23" width="1280" height="715" />
+    <state width="1419" height="225" key="GridCell.Tab.0.center/0.23.1440.801/-1120.-1417.2560.1417@0.23.1440.801" timestamp="1644832073019" />
+    <state width="1419" height="225" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1643887576544" />
+    <state width="1419" height="225" key="GridCell.Tab.0.center/0.23.1440.804/-1120.-1417.2560.1417@0.23.1440.804" timestamp="1644824684937" />
+    <state width="1419" height="225" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1644837440653" />
+    <state width="1419" height="225" key="GridCell.Tab.0.center/0.23.1440.806/-1120.-1417.2560.1417@0.23.1440.806" timestamp="1645608924536" />
+    <state width="1419" height="127" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1641823300703" />
+    <state width="1419" height="224" key="GridCell.Tab.0.center/0.23.1440.808/-1120.-1417.2560.1417@0.23.1440.808" timestamp="1641980863440" />
+    <state width="1419" height="224" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1641977019465" />
+    <state width="1419" height="409" key="GridCell.Tab.0.center/0.23.1440.812/-1120.-1417.2560.1417@0.23.1440.812" timestamp="1639993968237" />
+    <state width="1419" height="225" key="GridCell.Tab.0.left" timestamp="1645608924535">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1236" height="221" key="GridCell.Tab.0.left/0.23.1280.715@0.23.1280.715" timestamp="1596768555704" />
-    <state width="1236" height="221" key="GridCell.Tab.0.right" timestamp="1596768555705">
-      <screen x="0" y="23" width="1280" height="715" />
+    <state width="1419" height="225" key="GridCell.Tab.0.left/0.23.1440.801/-1120.-1417.2560.1417@0.23.1440.801" timestamp="1644832073018" />
+    <state width="1419" height="225" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1643887576543" />
+    <state width="1419" height="225" key="GridCell.Tab.0.left/0.23.1440.804/-1120.-1417.2560.1417@0.23.1440.804" timestamp="1644824684937" />
+    <state width="1419" height="225" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1644837440652" />
+    <state width="1419" height="225" key="GridCell.Tab.0.left/0.23.1440.806/-1120.-1417.2560.1417@0.23.1440.806" timestamp="1645608924535" />
+    <state width="1419" height="127" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1641823300703" />
+    <state width="1419" height="224" key="GridCell.Tab.0.left/0.23.1440.808/-1120.-1417.2560.1417@0.23.1440.808" timestamp="1641980863440" />
+    <state width="1419" height="224" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1641977019465" />
+    <state width="1419" height="409" key="GridCell.Tab.0.left/0.23.1440.812/-1120.-1417.2560.1417@0.23.1440.812" timestamp="1639993968236" />
+    <state width="1419" height="225" key="GridCell.Tab.0.right" timestamp="1645608924538">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1236" height="221" key="GridCell.Tab.0.right/0.23.1280.715@0.23.1280.715" timestamp="1596768555705" />
-    <state width="1236" height="221" key="GridCell.Tab.1.bottom" timestamp="1596768555708">
-      <screen x="0" y="23" width="1280" height="715" />
+    <state width="1419" height="225" key="GridCell.Tab.0.right/0.23.1440.801/-1120.-1417.2560.1417@0.23.1440.801" timestamp="1644832073019" />
+    <state width="1419" height="225" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1643887576545" />
+    <state width="1419" height="225" key="GridCell.Tab.0.right/0.23.1440.804/-1120.-1417.2560.1417@0.23.1440.804" timestamp="1644824684938" />
+    <state width="1419" height="225" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1644837440653" />
+    <state width="1419" height="225" key="GridCell.Tab.0.right/0.23.1440.806/-1120.-1417.2560.1417@0.23.1440.806" timestamp="1645608924537" />
+    <state width="1419" height="127" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1641823300704" />
+    <state width="1419" height="224" key="GridCell.Tab.0.right/0.23.1440.808/-1120.-1417.2560.1417@0.23.1440.808" timestamp="1641980863441" />
+    <state width="1419" height="224" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1641977019466" />
+    <state width="1419" height="409" key="GridCell.Tab.0.right/0.23.1440.812/-1120.-1417.2560.1417@0.23.1440.812" timestamp="1639993968238" />
+    <state width="1419" height="252" key="GridCell.Tab.1.bottom" timestamp="1641823165253">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1236" height="221" key="GridCell.Tab.1.bottom/0.23.1280.715@0.23.1280.715" timestamp="1596768555708" />
-    <state width="1236" height="221" key="GridCell.Tab.1.center" timestamp="1596768555707">
-      <screen x="0" y="23" width="1280" height="715" />
+    <state width="1419" height="252" key="GridCell.Tab.1.bottom/0.23.1440.806@0.23.1440.806" timestamp="1641823165253" />
+    <state width="1419" height="252" key="GridCell.Tab.1.center" timestamp="1641823165252">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1236" height="221" key="GridCell.Tab.1.center/0.23.1280.715@0.23.1280.715" timestamp="1596768555707" />
-    <state width="1236" height="221" key="GridCell.Tab.1.left" timestamp="1596768555706">
-      <screen x="0" y="23" width="1280" height="715" />
+    <state width="1419" height="252" key="GridCell.Tab.1.center/0.23.1440.806@0.23.1440.806" timestamp="1641823165252" />
+    <state width="1419" height="252" key="GridCell.Tab.1.left" timestamp="1641823165252">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1236" height="221" key="GridCell.Tab.1.left/0.23.1280.715@0.23.1280.715" timestamp="1596768555706" />
-    <state width="1236" height="221" key="GridCell.Tab.1.right" timestamp="1596768555707">
-      <screen x="0" y="23" width="1280" height="715" />
+    <state width="1419" height="252" key="GridCell.Tab.1.left/0.23.1440.806@0.23.1440.806" timestamp="1641823165252" />
+    <state width="1419" height="252" key="GridCell.Tab.1.right" timestamp="1641823165253">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state width="1236" height="221" key="GridCell.Tab.1.right/0.23.1280.715@0.23.1280.715" timestamp="1596768555707" />
-    <state x="228" y="127" key="IDE.errors.dialog" timestamp="1596073317418">
-      <screen x="0" y="23" width="1280" height="708" />
+    <state width="1419" height="252" key="GridCell.Tab.1.right/0.23.1440.806@0.23.1440.806" timestamp="1641823165253" />
+    <state x="229" y="62" key="SettingsEditor" timestamp="1645608501753">
+      <screen x="0" y="23" width="1440" height="806" />
     </state>
-    <state x="228" y="127" key="IDE.errors.dialog/0.23.1280.708@0.23.1280.708" timestamp="1596073317418" />
-    <state x="141" y="23" width="997" height="708" key="SettingsEditor" timestamp="1596768209772">
-      <screen x="0" y="23" width="1280" height="715" />
+    <state x="229" y="62" key="SettingsEditor/0.23.1440.806/-1120.-1417.2560.1417@0.23.1440.806" timestamp="1645608501753" />
+    <state x="320" y="23" key="Vcs.Push.Dialog.v2" timestamp="1639642944435">
+      <screen x="0" y="23" width="1440" height="812" />
     </state>
-    <state x="141" y="23" width="997" height="708" key="SettingsEditor/0.23.1280.708@0.23.1280.708" timestamp="1596073465065" />
-    <state x="141" y="23" key="SettingsEditor/0.23.1280.715@0.23.1280.715" timestamp="1596768209772" />
+    <state x="320" y="23" key="Vcs.Push.Dialog.v2/0.23.1440.812/-1120.-1417.2560.1417@0.23.1440.812" timestamp="1639642944435" />
+    <state x="522" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1645758547531">
+      <screen x="0" y="23" width="1440" height="806" />
+    </state>
+    <state x="522" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.806/-1120.-1417.2560.1417@0.23.1440.806" timestamp="1645758547531" />
+    <state x="385" y="159" width="670" height="676" key="search.everywhere.popup" timestamp="1639642785158">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="385" y="159" width="670" height="676" key="search.everywhere.popup/0.23.1440.812/-1120.-1417.2560.1417@0.23.1440.812" timestamp="1639642785158" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/huawei/find_last_str.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">
